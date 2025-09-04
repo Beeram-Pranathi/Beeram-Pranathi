@@ -42,7 +42,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beeram-Pranathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Beeram-Pranathi&theme=radical&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Beeram-Pranathi&theme=radical&hide_border=false) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beeram-Pranathi&theme=radical&hide_border=false&layout=compact)
 
 </div>

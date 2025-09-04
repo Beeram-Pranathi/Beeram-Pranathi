@@ -15,6 +15,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beeram-Pranathi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Beeram Pranathi&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=Beeram-Pranathi&icon=0&color=0)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

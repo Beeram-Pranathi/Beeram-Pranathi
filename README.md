@@ -15,7 +15,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beeram-Pranathi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
- 
+ #  Visit Count
+![](https://komarev.com/ghpvc/?username=Pravalikapullabatla12&label=Profile+Views&color=blue&style=flat-square)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
